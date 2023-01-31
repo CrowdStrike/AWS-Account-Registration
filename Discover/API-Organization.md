@@ -50,6 +50,7 @@ curl -X 'POST' \
     {
       "account_id": "123456789123",
       "account_type": "commercial",
+      "iam_role_arn": "arn:aws:iam::123456789123:role/my-custom-role",
       "is_master": true,
       "organization_id": "o-123acb456def"
     }

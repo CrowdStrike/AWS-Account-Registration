@@ -1,6 +1,6 @@
 # Discover - AWS Account Registration Workflow via API
 
-![image](https://user-images.githubusercontent.com/29733103/215820237-0cef9380-c951-4e11-b57c-bfbd3c54fd66.png)
+![image](https://user-images.githubusercontent.com/29733103/215860251-26626a0a-ba0d-4d3a-bfc8-770fffb2f14a.png)
 
 
 ## Prerequisites

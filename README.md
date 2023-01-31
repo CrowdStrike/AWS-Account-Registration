@@ -3,3 +3,4 @@
 # AWS-Account-Registration
 
 #### [Register AWS with Discover](Discover/README.md)
+#### [Register AWS with Horizon](Horizon/README.md)
