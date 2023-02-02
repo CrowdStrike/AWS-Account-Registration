@@ -38,6 +38,7 @@ jq -r '.access_token')
 ```
 
 ## Example API Calls
+### Custom Role Name
 In this example we are registering an organization management account, and passing a custom IAM Role Name.
 ```
 curl -X 'POST' \
@@ -93,7 +94,7 @@ A successful response will contain important information, such as your iam_role_
   ]
 }
 ```
-
+### Randomized Role Name
 In this example we are registering an organization management account, but we are allowing CrowdStrike to generate a random role name.
 ```
 curl -X 'POST' \
