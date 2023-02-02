@@ -106,7 +106,8 @@ curl -X 'POST' \
     {
       "account_id": "123456789123",
       "account_type": "commercial",
-      "is_master": false
+      "is_master": true,
+      "organization_id": "o-123acb456def"
     }
   ]
 }'
