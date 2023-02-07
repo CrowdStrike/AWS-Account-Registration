@@ -52,4 +52,3 @@ CLIENT_SECRET=<your-falcon-api-client-key> \
 ![image](https://user-images.githubusercontent.com/29733103/217327906-fd76d172-cfd1-497b-868c-4a9b10b982df.png)
 
 
-## Generate Bash script via Guided workflow
