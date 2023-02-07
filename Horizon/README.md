@@ -6,4 +6,5 @@
 
 | Name | Description |
 |:-|:-|
+| [Org Registration Bash](Organization-Templates/Guided-Organizations.md)| AWS Organization Registration Workflow via Bash Script |
 | [Horizon Data Flow](Data-Flow.md) | AWS Account Horizon Data Flow |
